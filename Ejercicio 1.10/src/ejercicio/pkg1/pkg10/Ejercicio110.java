@@ -38,7 +38,10 @@ public class Ejercicio110 {
         System.out.println("Nuevo cambio Mel");
         System.out.println("soy Diego..!!!");
         System.out.println("Catullo");
+<<<<<<< HEAD
         System.out.println("Prueba2");
+=======
+>>>>>>> main
     }
     
 }
