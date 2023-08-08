@@ -36,6 +36,7 @@ public class Ejercicio110 {
         System.out.println("El ultimo digito es: "+instancia1.ultimoDigito());
         System.out.println("MODIFICANDO CristianMArch");
         System.out.println("Nuevo cambio Mel");
+        System.out.println("soy Diego..!!!");
     }
     
 }
