@@ -39,6 +39,7 @@ public class Ejercicio110 {
         System.out.println("soy Diego..!!!");
         System.out.println("Catullo");
         System.out.println("borre todo");
+        System.out.println("Nuevo intento con el kraken");
     }
     
 }
